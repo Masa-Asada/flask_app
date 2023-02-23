@@ -1,0 +1,19 @@
+# ターミナルを起動
+# Ctrl + J
+
+# 仮想環境の構築
+# conda create -n flask python=3.9
+
+# 仮想環境の起動
+# conda activate flask
+
+# 仮想環境にFlaskライブラリをインストール
+# conda install flask
+
+# Pythonの対話モードを起動
+# python
+# -> import flask で Error が発生しなければ成功
+# インストールが問題なければ Ctrl + D で対話モードを終了
+
+# ローカルサーバーの終了
+# Ctrl + C
