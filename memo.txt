@@ -17,3 +17,11 @@
 
 # ローカルサーバーの終了
 # Ctrl + C
+
+# Git Command
+# 初期化:		git init
+# 連携:			git remote add origin (GitHub上でコピーしたURL)
+# 連携確認:		git remote -v
+# コミット:		git add .
+# コメント付与:	git commit -m "コメント"
+# プッシュ:		git push origin master
